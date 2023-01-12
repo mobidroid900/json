@@ -1,0 +1,119 @@
+{
+  "Ads": [
+    {
+      "select_ads": "ADMOB",
+      "admob_inter": "ca-app-pub-3084843377199525/1885806081",
+      "admob_nativ": "ca-app-pub-3084843377199525/9572724412",
+      "admob_banner": "ca-app-pub-3084843377199525/3198887758",
+      
+      "max_interst": "",
+      "max_nativ": "",
+      "max_banner": "",
+      
+      
+      "fan_inter": "YOUR_PLACEMENT_ID",
+      "fan_native": "YOUR_PLACEMENT_ID",
+      "fan_native_banner": "YOUR_PLACEMENT_ID",
+      
+      "interval_intertitial": 2,
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "More": [
+     {
+        "id": 0,
+      "title": "Mods for Melon Playground",
+      "image": "https://1.droid.casa/guide/modsformp/modsformp.jpg",
+      "link": "https://play.google.com/store/apps/details?id=com.modsfuture.modsformelonplayground"
+    },
+    {
+        "id": 1,
+      "title": "Guns Mod for Melon Playground",
+      "image": "https://1.droid.casa/guide/gunsmodformp/gunsmodmp.jpg",
+      "link": "https://play.google.com/store/apps/details?id=com.gunsmodpas.gunsmodformelonplayground"
+    },
+    {
+        "id": 2,
+      "title": "Building Mod for Melon Playground",
+      "image": "https://1.droid.casa/guide/modsformp/buildings/buildingmodformp.jpg",
+      "link": "https://play.google.com/store/apps/details?id=com.modsmelonpas.buildingmodmelonplayground"
+    },
+    {
+        "id": 3,
+      "title": "Human Mod for Melon Playground",
+      "image": "https://1.droid.casa/guide/humanmodformp/humanmodformp.jpg",
+      "link": "https://play.google.com/store/apps/details?id=com.modmelonhumanpas.humanmodformelonplayground"
+    },
+    {
+        "id": 4,
+      "title": "Cars Mod for Melon Playground",
+      "image": "https://1.droid.casa/guide/carmodmp/carmodmp.jpg",
+      "link": "https://play.google.com/store/apps/details?id=com.carsmodpas.carsmodformelonplayground"
+    },
+    {
+        "id": 5,
+      "title": "Drinks Mod for Melon",
+      "image": "https://1.droid.casa/guide/drinksformp/sodadrinks.JPG",
+      "link": "https://play.google.com/store/apps/details?id=com.drinkspackpas.drinkspackformelonplayground"
+    },
+    {
+        "id": 6,
+      "title": "Rainbow Friends for Melon",
+      "image": "https://1.droid.casa/guide/rainbowmodmp/rainbowmp.jpg",
+      "link": "https://play.google.com/store/apps/details?id=com.rainbowmodpas.rainbowfriendsmodformelonplayground"
+    },
+    {
+        "id": 7,
+      "title": "Sonic Mod for Melon",
+      "image": "https://1.droid.casa/guide/sonicmodformp/sonic.jpg",
+      "link": "https://play.google.com/store/apps/details?id=com.modsmelonpas.sonicmodsformelonplayground"
+    },
+    {
+        "id": 8,
+      "title": "SCP Mod for Melon",
+      "image": "https://1.droid.casa/guide/scpmodformp/scp.jpg",
+      "link": "https://play.google.com/store/apps/details?id=com.modscppas.scpmodformelonplayground"
+    },
+    {
+        "id": 9,
+      "title": "Military Mod for Melon",
+      "image": "https://1.droid.casa/guide/militarymodformp/military.jpg",
+      "link": "https://play.google.com/store/apps/details?id=com.modmilitarypas.militarymodformelonplayground"
+    },
+    {
+        "id": 10,
+      "title": "Animatronics Mod for Melon",
+      "image": "https://1.droid.casa/guide/animatronicmodformp/animatronic.jpg",
+      "link": "https://play.google.com/store/apps/details?id=com.animatronicpas.animatronicmodformelonplayground"
+    }
+  ],
+  "Skin": [
+    {
+      "id": 1,
+      "name_skin": "Batman",
+      "skin_url": "https://lh3.googleusercontent.com/UyZKDkEo0Zsne-CjOWT8lfNcmqvlkYDPGCsEzPynY_F3jp_1MiKMYT4XhsvYjLn4_9OCK1Egl9c-852CzqA5zA",
+      "view_skin": "https://lh3.googleusercontent.com/4o0GJ9ES4NAvTCSpY7aua6soyK1_pbFXybTg_WjCVMMRzANpp66ocNSF4R_Hu4NPOh3kbH6nZTp95QGn8P_eV1g"
+    }
+  ],
+  "Addons": [
+    {
+      "id": 1,
+      "name_add": "Alphabet Lore",
+      "add_url": "https://1.droid.casa/guide/alphabetloremodformp/alphabet.zip",
+      "addB_url": "https://aliendro.id/uploads/demo/skinaddonmap/Cats Plus B.mcpack",
+      "addR_url": "https://aliendro.id/uploads/demo/skinaddonmap/Cats Plus R.mcpack",
+      "view_add": "https://1.droid.casa/guide/alphabetloremodformp/alphabet.JPG",
+      "des_add": "https://1.droid.casa/guide/alphabetloremodformp/alphabet.html"
+    }
+  ],
+  "Maps": [
+    {
+      "id": 1,
+      "name_map": "Hello Neighbor2",
+      "map_url": "https://aliendro.id/uploads/demo/skinaddonmap/samplemap.zip",
+      "view_map": "https://aliendro.id/uploads/demo/skinaddonmap/hello.png",
+      "des_map": "https://aliendro.id/uploads/demo/skinaddonmap/hello.html"
+    }
+  ]
+}
